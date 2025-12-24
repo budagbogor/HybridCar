@@ -328,6 +328,16 @@ const HybridCarsData = () => {
             oilType: 'Full Synthetic'
         },
         {
+            brand: 'Nissan',
+            model: 'Serena e-POWER',
+            year: '2023-2024',
+            engine: '1.4L HR14DD-E (Generator)',
+            sae: '0W-20',
+            capacity: '3.2 liter',
+            interval: '10.000 km / 6 bulan',
+            oilType: 'Full Synthetic'
+        },
+        {
             brand: 'Wuling',
             model: 'Almaz RS Hybrid',
             year: '2023-2024',

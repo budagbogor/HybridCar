@@ -4,7 +4,7 @@ Aplikasi web untuk menampilkan informasi lengkap spesifikasi oli mesin untuk ken
 
 ## Fitur
 
-- 📊 Data lengkap 51+ mobil hybrid dari berbagai merek (Toyota, Honda, Nissan, Suzuki, Wuling, Lexus, Hyundai, Kia, Mercedes-Benz, BMW, Mitsubishi, Audi, Volvo, Chery)
+- 📊 Data lengkap 52+ mobil hybrid dari berbagai merek (Toyota, Honda, Nissan, Suzuki, Wuling, Lexus, Hyundai, Kia, Mercedes-Benz, BMW, Mitsubishi, Audi, Volvo, Chery)
 - 🔍 Pencarian berdasarkan merek atau model
 - 🏷️ Filter berdasarkan merek kendaraan
 - 📱 Responsive design untuk semua ukuran layar
