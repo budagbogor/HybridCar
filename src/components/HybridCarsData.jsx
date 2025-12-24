@@ -15,7 +15,8 @@ const HybridCarsData = () => {
             sae: '0W-16 / 0W-20',
             capacity: '4.3 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Toyota',
@@ -35,7 +36,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.3 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Toyota',
@@ -45,7 +47,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.2 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Toyota',
@@ -55,7 +58,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.2 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Toyota',
@@ -65,7 +69,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.2 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Toyota',
@@ -75,7 +80,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.3 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Toyota',
@@ -85,7 +91,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.3 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Toyota',
@@ -95,7 +102,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '3.3 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Toyota',
@@ -105,7 +113,8 @@ const HybridCarsData = () => {
             sae: '0W-16 / 0W-20',
             capacity: '4.5 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Honda',
@@ -115,7 +124,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '3.7 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Honda',
@@ -125,7 +135,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.2 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Honda',
@@ -135,7 +146,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.0 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Honda',
@@ -145,7 +157,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.0 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Honda',
@@ -155,7 +168,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '3.7 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Nissan',
@@ -165,7 +179,8 @@ const HybridCarsData = () => {
             sae: '5W-30',
             capacity: '3.5 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Suzuki',
@@ -175,7 +190,8 @@ const HybridCarsData = () => {
             sae: '0W-16',
             capacity: '3.7 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SN / ILSAC GF-5'
         },
         {
             brand: 'Suzuki',
@@ -185,7 +201,8 @@ const HybridCarsData = () => {
             sae: '0W-16',
             capacity: '3.7 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SN / ILSAC GF-5'
         },
         {
             brand: 'Wuling',
@@ -195,7 +212,8 @@ const HybridCarsData = () => {
             sae: '5W-30',
             capacity: '4.0 liter',
             interval: '5.000 km / 6 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SN / ILSAC GF-5'
         },
         {
             brand: 'Lexus',
@@ -205,7 +223,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.4 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Lexus',
@@ -215,7 +234,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.3 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Lexus',
@@ -225,7 +245,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.3 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Hyundai',
@@ -235,7 +256,8 @@ const HybridCarsData = () => {
             sae: '5W-20',
             capacity: '4.0 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Kia',
@@ -245,7 +267,8 @@ const HybridCarsData = () => {
             sae: '5W-20',
             capacity: '4.0 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Mercedes-Benz',
@@ -255,7 +278,8 @@ const HybridCarsData = () => {
             sae: '5W-30',
             capacity: '5.5 liter',
             interval: '12.500 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'BMW',
@@ -265,7 +289,8 @@ const HybridCarsData = () => {
             sae: '5W-30',
             capacity: '6.5 liter',
             interval: '15.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'Lexus',
@@ -275,7 +300,8 @@ const HybridCarsData = () => {
             sae: '0W-16 / 0W-20',
             capacity: '4.5 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Lexus',
@@ -285,7 +311,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '5.6 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Lexus',
@@ -295,7 +322,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.3 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Mitsubishi',
@@ -305,7 +333,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '4.6 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SN / ILSAC GF-5'
         },
         {
             brand: 'Mitsubishi',
@@ -315,7 +344,8 @@ const HybridCarsData = () => {
             sae: '0W-20 / 5W-30',
             capacity: '4.5 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SN / ILSAC GF-5'
         },
         {
             brand: 'Nissan',
@@ -325,7 +355,8 @@ const HybridCarsData = () => {
             sae: '0W-20 / 5W-30',
             capacity: '5.2 liter',
             interval: '15.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Nissan',
@@ -335,7 +366,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '3.2 liter',
             interval: '10.000 km / 6 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ILSAC GF-6A'
         },
         {
             brand: 'Wuling',
@@ -345,7 +377,8 @@ const HybridCarsData = () => {
             sae: '5W-30',
             capacity: '4.0 liter',
             interval: '5.000 km / 6 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SN / ILSAC GF-5'
         },
         {
             brand: 'BMW',
@@ -355,7 +388,8 @@ const HybridCarsData = () => {
             sae: '0W-20 / 5W-30',
             capacity: '5.0 liter',
             interval: '15.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'BMW',
@@ -365,7 +399,8 @@ const HybridCarsData = () => {
             sae: '0W-20 / 5W-30',
             capacity: '5.0 liter',
             interval: '15.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'BMW',
@@ -375,7 +410,8 @@ const HybridCarsData = () => {
             sae: '0W-30 / 5W-30',
             capacity: '5.0 liter',
             interval: '15.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'Mercedes-Benz',
@@ -385,7 +421,8 @@ const HybridCarsData = () => {
             sae: '0W-40 / 5W-40',
             capacity: '6.0 liter',
             interval: '12.500 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'Mercedes-Benz',
@@ -395,7 +432,8 @@ const HybridCarsData = () => {
             sae: '0W-30 / 5W-30',
             capacity: '6.5 liter',
             interval: '12.500 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'Mercedes-Benz',
@@ -405,7 +443,8 @@ const HybridCarsData = () => {
             sae: '0W-40 / 5W-40',
             capacity: '7.8 liter',
             interval: '12.500 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'Audi',
@@ -415,7 +454,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '5.2 liter',
             interval: '15.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'Audi',
@@ -425,7 +465,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '5.2 liter',
             interval: '15.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'Audi',
@@ -435,7 +476,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '7.6 liter',
             interval: '15.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'Volvo',
@@ -445,7 +487,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '5.5 liter',
             interval: '15.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'Volvo',
@@ -455,7 +498,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '5.5 liter',
             interval: '15.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'Volvo',
@@ -465,7 +509,8 @@ const HybridCarsData = () => {
             sae: '0W-20',
             capacity: '5.5 liter',
             interval: '15.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SP / ACEA C3'
         },
         {
             brand: 'Chery',
@@ -475,7 +520,8 @@ const HybridCarsData = () => {
             sae: '5W-30 / 0W-20',
             capacity: '4.5 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SN / ILSAC GF-5'
         },
         {
             brand: 'Chery',
@@ -485,7 +531,8 @@ const HybridCarsData = () => {
             sae: '5W-30 / 5W-40',
             capacity: '4.2 liter',
             interval: '10.000 km / 12 bulan',
-            oilType: 'Full Synthetic'
+            oilType: 'Full Synthetic',
+            oilStandard: 'API SN / ILSAC GF-5'
         }
     ];
 
@@ -583,6 +630,16 @@ const HybridCarsData = () => {
                                         </div>
                                         <p className="text-lg font-bold text-orange-700">{car.interval}</p>
                                     </div>
+
+                                    {car.oilStandard && (
+                                        <div className="bg-teal-50 rounded-lg p-4 col-span-2">
+                                            <div className="flex items-center gap-2 mb-2">
+                                                <Droplet className="w-5 h-5 text-teal-600" />
+                                                <span className="text-sm font-semibold text-teal-900">Standar Kualitas Oli</span>
+                                            </div>
+                                            <p className="text-lg font-bold text-teal-700">{car.oilStandard}</p>
+                                        </div>
+                                    )}
                                 </div>
                             </div>
 
@@ -597,6 +654,7 @@ const HybridCarsData = () => {
                                         <div key={oilIndex} className="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-3 border border-gray-200 hover:shadow-md transition-shadow">
                                             <p className="text-xs font-semibold text-gray-800 mb-1">{oil.brand}</p>
                                             <p className="text-xs text-gray-600 mb-1">{oil.grade}</p>
+                                            <p className="text-xs text-blue-600 mb-2 font-medium">{oil.standards}</p>
                                             <p className="text-sm font-bold text-green-600">{formatPrice(oil.price)}/L</p>
                                         </div>
                                     ))}
