@@ -593,7 +593,7 @@ const HybridCarsData = () => {
                                     <h3 className="text-sm font-semibold text-gray-800">Rekomendasi Oli di Pasaran</h3>
                                 </div>
                                 <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">
-                                    {getRecommendedOils(car.sae).map((oil, oilIndex) => (
+                                    {getRecommendedOils(car.sae, car.brand).map((oil, oilIndex) => (
                                         <div key={oilIndex} className="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-3 border border-gray-200 hover:shadow-md transition-shadow">
                                             <p className="text-xs font-semibold text-gray-800 mb-1">{oil.brand}</p>
                                             <p className="text-xs text-gray-600 mb-1">{oil.grade}</p>
