@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
-import { Search, Car, Droplet, Calendar } from 'lucide-react';
+import { Search, Car, Droplet, Calendar, DollarSign } from 'lucide-react';
+import { getRecommendedOils, formatPrice } from '../utils/oilData';
 
 const HybridCarsData = () => {
     const [searchTerm, setSearchTerm] = useState('');
@@ -573,6 +574,24 @@ const HybridCarsData = () => {
                                         <p className="text-lg font-bold text-orange-700">{car.interval}</p>
                                     </div>
                                 </div>
+                            </div>
+
+                            {/* Rekomendasi Oli Section */}
+                            <div className="mt-4 border-t pt-4">
+                                <div className="flex items-center gap-2 mb-3">
+                                    <DollarSign className="w-5 h-5 text-green-600" />
+                                    <h3 className="text-sm font-semibold text-gray-800">Rekomendasi Oli di Pasaran</h3>
+                                </div>
+                                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-2">
+                                    {getRecommendedOils(car.sae).map((oil, oilIndex) => (
+                                        <div key={oilIndex} className="bg-gradient-to-br from-gray-50 to-gray-100 rounded-lg p-3 border border-gray-200 hover:shadow-md transition-shadow">
+                                            <p className="text-xs font-semibold text-gray-800 mb-1">{oil.brand}</p>
+                                            <p className="text-xs text-gray-600 mb-1">{oil.grade}</p>
+                                            <p className="text-sm font-bold text-green-600">{formatPrice(oil.price)}/L</p>
+                                        </div>
+                                    ))}
+                                </div>
+                                <p className="text-xs text-gray-500 mt-2">* Harga per liter, dapat bervariasi tergantung lokasi dan promo</p>
                             </div>
                         </div>
                     ))}
